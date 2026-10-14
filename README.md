@@ -14,6 +14,35 @@ Anggota Kelompok:
 4. [Aqsa Ibnu Rizik] - [4525219193] - [Merancang visual code]
 4. [Harisa Malfa Liya] - [4525210027] - [Membuat PPT]
 
+
+Struktur folder:
+
+NyemilYuk_Website/
+
+|-- index.html
+
+|-- profil.html
+
+|-- galeri.html
+
+|-- data.html
+
+|-- README.md
+
+|-- assets/
+
+    |-- css/
+        |-- style.csS
+    |--images/
+        |-- camilan.png
+        |-- keripik.png
+        |-- basreng.png
+        |-- makaroni.png
+        |-- beranda.png
+        |-- profil.png
+        |-- galeri.png
+        `-- data produk.png
+        
 Cara menjalankan:
 1. Ekstrak file ZIP.
 2. Buka folder NyemilYuk_Website di VS Code.
