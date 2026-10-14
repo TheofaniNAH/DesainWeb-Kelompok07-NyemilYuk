@@ -12,24 +12,7 @@ Anggota Kelompok:
 2. [Rayza Aqsha Aditya ] - [4525210101] - [Merancang visual code]
 3. [Theofani Natanya Anari Hutabarat] - [4525210074] - [Merancang visual code]
 4. [Aqsa Ibnu Rizik] - [4525219193] - [Merancang visual code]
-4. [Harisa Malfa Liya] - [4525210027] - [Membuat]
-
-Struktur folder:
-NyemilYuk_Website/
-|-- index.html
-|-- profil.html
-|-- galeri.html
-|-- data.html
-|-- README.txt
-`-- assets/
-    |-- css/
-    |   `-- style.css
-    `-- images/
-        |-- camilan.png
-        |-- keripik.png
-        |-- basreng.png
-        `-- makaroni.png
-
+4. [Harisa Malfa Liya] - [4525210027] - [Membuat PPT]
 
 Cara menjalankan:
 1. Ekstrak file ZIP.
@@ -51,11 +34,28 @@ Materi yang diterapkan:
  
 Sumber Gambar:
 --------------
+DESKTOP
+
 ![Output Desktop](assets/images/outputdesktop.png)
+
+MOBILE
+
 ![Output Mobile](assets/images/outputmobile.png)
+
+BERANDA
+
 ![Output Beranda](assets/images/beranda.png)
+
+PROFIL
+
 ![Output Profil](assets/images/profil.png)
+
+GALERI
+
 ![Output Galeri](assets/images/galeri.png)
+
+DATA PROUK
+
 ![Output Data Produk](assets/images/data.png)
 
 Font:
